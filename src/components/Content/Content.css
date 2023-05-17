@@ -1,0 +1,35 @@
+.l-main {
+  width: 63%;
+  display: flex;
+  /* justify-content: center; */
+  /* padding-left: 5rem; */
+}
+
+.desc-card {
+  color: white;
+  width: 80%;
+  padding: 0 2rem;
+  margin-top: 3rem;
+}
+
+.keypoint {
+  display: flex;
+  align-items: center;
+  height: 10%;
+  margin-top: 3rem;
+}
+
+.keypoint img {
+  margin-right: 4rem;
+  height: 60px;
+}
+
+.keypoint p span {
+  color: #0096ff;
+  font-weight: 600;
+}
+
+.icon {
+  border: 1px solid red;
+  color: white;
+}

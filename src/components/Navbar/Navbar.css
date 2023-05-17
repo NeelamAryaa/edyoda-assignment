@@ -1,0 +1,30 @@
+.name {
+  background: linear-gradient(to right, #0096ff, #0048ff);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 800;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* padding: 0.8rem 2rem 0.8rem 2rem; */
+  background-color: linear-gradient(266.79deg, #0048ff 4.63%, #0096ff 100%);
+  font-size: 1.1rem;
+}
+
+.l-nav {
+  display: flex;
+  width: 42%;
+  justify-content: space-evenly;
+
+  align-items: center;
+}
+
+.r-nav {
+  display: flex;
+  width: 35%;
+  justify-content: space-evenly;
+  align-items: center;
+}
