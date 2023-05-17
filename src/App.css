@@ -31,7 +31,7 @@
 
 .l-nav {
   display: flex;
-  width: 35%;
+  width: 45%;
   justify-content: space-evenly;
   font-size: 1.3rem;
   align-items: center;
@@ -68,7 +68,7 @@
 
 .desc-card {
   color: white;
-  width: 68%;
+  width: 80%;
   padding: 0 2rem;
   margin-top: 3rem;
 }
@@ -97,7 +97,7 @@
 
 .card {
   background-color: white;
-  width: 70%;
+  width: 78%;
   margin: auto;
   margin-top: 3rem;
   margin-bottom: 3rem;
@@ -126,6 +126,7 @@
   align-items: center;
   color: white;
   margin: auto;
+  font-weight: 600;
 }
 
 .subscribe {
@@ -138,6 +139,7 @@
   align-items: center;
   color: white;
   margin: auto;
+  font-weight: 600;
 }
 
 .form {
@@ -170,6 +172,7 @@
   padding: 0.5rem;
   border-radius: 0.5rem;
   margin-top: 0.8rem;
+  background-color: #f8d8d8;
 }
 
 .offer {
