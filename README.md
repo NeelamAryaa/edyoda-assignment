@@ -1,10 +1,7 @@
 # DEMO Link Of Website 
 https://6465195491c90100087526c5--edyodassignment.netlify.app/
-
-
 # Demo
-<img width="658" alt="demo" src="https://github.com/NeelamAryaa/edyoda-assignment/assets/62146391/5b2f79ea-5029-4f63-ab7f-f1af4c97fb72">
-
+<img width="570" alt="demo" src="https://github.com/NeelamAryaa/edyoda-assignment/assets/62146391/30a39f53-4b5b-4ef9-824d-24e1bd512c1d">
 
 # Getting Started with Create React App
 
